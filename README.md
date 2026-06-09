@@ -282,24 +282,6 @@ Add screenshots in an `images/` folder and replace the placeholders below.
 
 ---
 
-## Suggested short walkthrough video
-
-A short 2–3 minute walkthrough can be added here:
-
-```text
-Video walkthrough: [Add Loom, YouTube unlisted, or portfolio video link here]
-```
-
-The video should show:
-
-1. Jira board workflow  
-2. Payroll vendor Jira ticket  
-3. Confluence assessment page  
-4. Evidence review notes and conditional approval decision  
-5. Vendor register and answer library briefly  
-
----
-
 ## Disclaimer
 
 This is a fictional portfolio demo created for learning and job application purposes.
